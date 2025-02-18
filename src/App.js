@@ -1,7 +1,10 @@
+import { Search } from './screens/Search';
+import { Details } from './screens/Details';
 export function App() {
-  return (
-    <div>
-      Rate the Hero! 
-    </div>
-  );
+	return (
+		<>
+			<Search />
+			<Details />
+		</>
+	);
 }
