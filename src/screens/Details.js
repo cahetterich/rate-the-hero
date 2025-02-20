@@ -1,3 +1,3 @@
 export function Details() {
-	return <div>Hello, tela de detalhes!</div>;
+	return <div>Detalhes do Herói!</div>;
 }
